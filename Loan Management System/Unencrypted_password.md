@@ -20,7 +20,6 @@ description: "Loan Management System 1.0 - Cleartext Storage of Sensitive Inform
 # and possibly gain elevated privileges.
 
 # POC
-
-![Unencrypted password](./Unencrypted_password.PNG)
 ```
 
+![Unencrypted password](./Unencrypted_password.PNG)
